@@ -13,7 +13,6 @@ public class LowerCase {
      * Non-letter characters are left as is.
      */
     public static String lowerCase(String s) {
-        //TODO:kjbsdkfjsdkhjfs
         return s.toLowerCase();
     }
 }
